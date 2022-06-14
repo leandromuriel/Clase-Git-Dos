@@ -63,6 +63,12 @@ nav ul li a {
     grid-area: mainP;
     text-align: center;
     font-size: 1.2rem;
+
+}
+.mainP :hover{
+    background-color: burlywood;
+    font-size: 50px;
+    border: black 5px solid;
 }
 
 .mainP span{
@@ -90,7 +96,12 @@ nav ul li a {
     text-align: center;
     font-size: 1.2rem;
 }
-
+.parrafo:hover{
+    background-color: black;
+    font-size: 50px;
+    border: whitesmoke 5px solid;
+    color:white
+}
 div img{
     width: 70%;
 }
